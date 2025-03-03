@@ -12,11 +12,11 @@
 -->
 <img src="assets/Fantasy_builders.png" align="center" width="" height=""  >
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+the+Future+of+Blockchain;Innovative+Crypto+Solutions;Web3+Development+Experts" alt="Fantasy Builders" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Fantasy%20Builders&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20of%20blockchain%20technology%20|%20Web3%20Development%20Experts&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fantasy%20Builders&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20of%20blockchain%20technology%20|%20Web3%20Development%20Experts&descAlignY=55&descAlign=50" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Building+the+Future+of+Blockchain;Innovative+Crypto+Solutions;Web3+Development+Experts" alt="Fantasy Builders" />
 </div>
 
 <div align="center">
@@ -39,14 +39,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy" />
 </div>
 
-## 🌟 About Us
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=We+are+passionate+developers;Creating+innovative+blockchain+solutions;Building+the+future+of+Web3" alt="About Us" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=About%20Us&fontSize=70&animation=fadeIn" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=Our%20Expertise&fontSize=70&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=We+are+passionate+developers;Creating+innovative+blockchain+solutions;Building+the+future+of+Web3" alt="About Us" />
 </div>
 
 Fantasy Builders is a dynamic team of blockchain developers and crypto enthusiasts dedicated to creating innovative solutions in the Web3 space. We specialize in:
@@ -84,8 +82,6 @@ Fantasy Builders is a dynamic team of blockchain developers and crypto enthusias
   </table>
 </div>
 
-## 🛠️ Our Tech Stack
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=Technologies&fontSize=70&animation=fadeIn" />
 </div>
@@ -101,8 +97,6 @@ Fantasy Builders is a dynamic team of blockchain developers and crypto enthusias
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </div>
 
-## 📊 Our Stats
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=Statistics&fontSize=70&animation=fadeIn" />
 </div>
@@ -115,8 +109,6 @@ Fantasy Builders is a dynamic team of blockchain developers and crypto enthusias
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
-## 🎯 Current Projects
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=Projects&fontSize=70&animation=fadeIn" />
@@ -147,8 +139,6 @@ Fantasy Builders is a dynamic team of blockchain developers and crypto enthusias
   </table>
 </div>
 
-## 🤝 Join Us
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=Join%20Us&fontSize=70&animation=fadeIn" />
 </div>
@@ -171,8 +161,6 @@ We're always looking for talented developers to join our team! If you're passion
   </a>
 </div>
 
-## 🌈 Our Vision
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=Our%20Vision&fontSize=70&animation=fadeIn" />
 </div>
@@ -183,8 +171,6 @@ We're always looking for talented developers to join our team! If you're passion
 
 At Fantasy Builders, we believe in the power of blockchain technology to transform the world. Our mission is to create innovative solutions that make a difference in the crypto space and beyond.
 
-## 📈 Our Growth
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=Our%20Growth&fontSize=70&animation=fadeIn" />
 </div>
@@ -192,8 +178,6 @@ At Fantasy Builders, we believe in the power of blockchain technology to transfo
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark&hide_border=true&area=true&color=2D9EF7" alt="Activity Graph" />
 </div>
-
-## 🌟 Support Us
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&reversal=false&color=gradient&height=120&section=header&text=Support%20Us&fontSize=70&animation=fadeIn" />
@@ -208,10 +192,8 @@ At Fantasy Builders, we believe in the power of blockchain technology to transfo
   </a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer" />
 </div>
 
 <div align="center">
